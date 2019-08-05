@@ -1,0 +1,22 @@
+{
+  "name": "yeah-bit-blog",
+  "version": "1.0.0",
+  "description": "A Blog to Share Everything I'm Learning ( Um Blog para compartilhar meus novos aprendizados )",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-gomes/yeah-bit-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-gomes/yeah-bit-blog/issues"
+  },
+  "homepage": "https://github.com/d-gomes/yeah-bit-blog#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
